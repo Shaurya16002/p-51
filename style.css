@@ -1,0 +1,27 @@
+.ind{
+color: darkblue;
+display: flex;
+justify-content:center;
+font-style:italic;
+border-style:dotted;
+outline-style:dotted;
+font-family:cursive;
+outline-color: #ff8c00;
+border-color: #006400;
+border-width: 1mm;
+margin: 1cm;
+outline-width: 1.03mm;
+
+
+}
+
+.roh{
+    color:#00008b;
+    
+
+    font-size:0.5cm;
+}
+
+body{
+    background-color:#f5f5dc;
+}
